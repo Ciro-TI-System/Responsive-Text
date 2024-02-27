@@ -35,28 +35,15 @@ Texto Responsivo
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- **[React](https://react.dev/reference/react)**
-- **[Typescript](https://www.typescriptlang.org/docs/)**
+- **[HTML](#)**
+- **[CSS](#)**
 - **[Figma](https://www.figma.com/dev-mode/)**
-- **[Pnpm](https://pnpm.io/pt/installation)**
-- **[Vite](https://vitejs.dev/guide/)**
-- **[lucide-rect](#)**
-- **[Tailwind](#)**
-- **[tailwind-variants](#)**
-- **[tailwind-merge](#)** 
-- **[@radix-ui/react-select](#)**
-- **[json-server](#)**
-- **[@tanstack/react-query](#)**
-- **[@radix-ui/react-dialog](#)**
-- **[zod](#)**
-- **[@hookform/resolvers](#)**
-- **[react-hook-form](#)**
 
 <br>
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1341554349314625270). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
