@@ -3,30 +3,20 @@ Texto Responsivo
 </h1>
 
 <p align="center">
-⚙️ Desenvolvimento de uma Home Page com textos responsivos. ⚙️
+⚙️ Desenvolvimento de uma Home Page com textos responsivos.⚙️
 </p>
 
 <br>
 
-<div style="display: grid;" >
+<div style="display: flex column;" >
 <p>
-  <img src=".github/Dashboard-Nivo.jpg" width="45%">
-  <img src=".github/Dashboard.jpg" width="45%">
+  <img src=".github/Mobile.jpg" width="45%">
 </p>
 </br>
 <p>
-  <img src=".github/Tags.jpg" width="45%">
-  <img src=".github/Create tag.jpg" width="45%">
+  <img src=".github/Desktop.jpg" width="100%">
 </p>
 </br>
-<p>
-  <img src=".github/Uploads.jpg" width="45%">
-  <img src=".github/New upload.jpg" width="45%">
-</p>
-<p>
-  <img src=".github/New upload (Empty).jpg" width="45%">
-  <img src=".github/Create collection.jpg" width="45%">
-</p>
 </div>
 
 <br>
@@ -43,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/kk9TNHkrxseIbxxsJsdryc/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=SHQVqeFfCdLKJBvY-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
