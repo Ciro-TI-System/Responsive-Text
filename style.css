@@ -6,12 +6,22 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  font-size: 62.5%; /* 10px */
+}
+
 body {
   background: #ece9fd;
-  padding: 60px 23px 66px;
-  font-family: "Epilogue", sans-serif;
+  padding: 6rem 2.3rem 6.6rem;
+  font-size: 1.6rem;
 }
 
 ul {
   list-style: none;
+}
+
+h1 {
+  font-family: "Epilogue", sans-serif;
+  font-size: 4rem;
+  line-height: 4.8rem;
 }
